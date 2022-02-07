@@ -1,3 +1,3 @@
 # CECS-323- 
-Database Fundamentals
+Database Fundamentals.
 Course taught by David Brown
